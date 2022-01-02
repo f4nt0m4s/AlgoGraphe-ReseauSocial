@@ -13,5 +13,5 @@ Exemple du dossier où vous devez vous situer : `<C:\Graphe\src\class>`
 Pour éxécuter, veuillez taper la commande suivante : `java fr.algographe.Controleur`
 Pour éxécuter une classe précise contenant la méthode main, veuillez taper la commande suivante : `java nom_paquetage.nom_de_la_classe`
 
-
+### Illustration de l'application :
 ![Screenshot](image.png)
