@@ -12,3 +12,6 @@ Lors de l'étape d'éxécution, vous devez être dans le dossier `class` du proj
 Exemple du dossier où vous devez vous situer : `<C:\Graphe\src\class>`
 Pour éxécuter, veuillez taper la commande suivante : `java fr.algographe.Controleur`
 Pour éxécuter une classe précise contenant la méthode main, veuillez taper la commande suivante : `java nom_paquetage.nom_de_la_classe`
+
+
+![Screenshot](image.png)
