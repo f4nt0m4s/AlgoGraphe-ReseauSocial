@@ -1,0 +1,24 @@
+Sommets :
+(P) BlackBerry
+(P) Garnier
+(P) Itunes
+(P) KFC
+(P) Microsoft Lumia
+(U) Bonnet Franklin 15
+(U) Larit Ginette 15
+(U) Lefoux Clément 15
+(U) Leroy Hubert 15
+(U) Petit Anne 15
+(U) Albert Pierre 15
+(U) Franky Dejong 15
+Voisins :
+(P) BlackBerry : (U) Leroy, (U) Petit, (U) Lefoux, (U) Albert, (U) Franky
+(P) Garnier : (U) Bonnet, (U) Larit, (U) Petit
+(P) Itunes : (U) Leroy, (U) Petit, (U) Lefoux
+(P) KFC : (U) Bonnet, (U) Larit, (U) Petit
+(P) Microsoft Lumia : (U) Bonnet
+(U) Bonnet : (P) KFC, (P) Microsoft Lumia, (U) Lefoux, (U) Leroy
+(U) Larit : (P) Itunes, (P) Garnier, (U) Leroy
+(U) Lefoux : (U) Leroy, (U) Bonnet
+(U) Leroy : (U) Petit
+(U) Petit : (U) Lefoux, (U) Larit, (P) BlackBerry

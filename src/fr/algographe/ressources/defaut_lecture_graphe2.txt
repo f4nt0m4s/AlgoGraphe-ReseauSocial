@@ -1,0 +1,16 @@
+Sommets :
+(U) Berry John 35
+(P) Dior
+(P) Adidas
+(P) Facebook
+(P) Linkedin
+(U) Marie Flammand 16
+(U) Lepoireaux Elise 24
+(U) Clair Claude 48
+(U) Lemmonier Thierry 28
+Voisins :
+(P) Dior : (U) Berry, (U) Marie
+(U) Lepoireaux : (P) Dior, (P) Adidas
+(P) Adidas : (U) Clair
+(U) Clair : (U) Lemmonier
+(U) Lemmonier : (U) Berry, (P) Linkedin, (P) Facebook
